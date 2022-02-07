@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.1](https://github.com/get-base/vue-segment/compare/v0.2.9...v0.3.1) (2022-02-07)
+
+
+### Features
+
+* update segment snippet version ([84b3d18](https://github.com/get-base/vue-segment/commit/84b3d1801733968a9c88aebcac5ad3d0cab7825a))
+
 ### [0.2.9](https://github.com/dansmaculotte/vue-segment/compare/v0.2.8...v0.2.9) (2020-04-21)
 
 
