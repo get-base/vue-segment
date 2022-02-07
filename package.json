@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "repository": "https://github.com/get-base/vue-segment",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   },
   "contributors": [
     {
