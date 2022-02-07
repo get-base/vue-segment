@@ -1,10 +1,13 @@
 {
   "name": "@get-base/vue-segment",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Vue.js plugin for Segment Analytics.js",
   "license": "MIT",
   "main": "src/index.js",
   "repository": "https://github.com/get-base/vue-segment",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "contributors": [
     {
       "name": "Ryan Stuart",
