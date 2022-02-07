@@ -53,7 +53,7 @@ module.exports = {
       analytics[key] = analytics.factory(key);
     }
 
-    analytics.SNIPPET_VERSION = '4.1.0';
+    analytics.SNIPPET_VERSION = '4.15.3';
 
     analytics.load = function (key, options) {
       const script = document.createElement('script')
